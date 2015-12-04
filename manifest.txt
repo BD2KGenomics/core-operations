@@ -1,2 +1,2 @@
 Date	Batch	Status
-12/5/15	ISPY2/20Samples.rnaseq.txt
+12/5/15	ISPY2/BatchOf20.RNASeq.1.txt	Entered
