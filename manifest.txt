@@ -1,0 +1,2 @@
+Date	Batch	Status
+12/5/15	ISPY2/20Samples.rnaseq.txt
