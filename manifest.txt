@@ -1,4 +1,4 @@
 Date	Batch	Status
 12/5/15	ISPY2/BatchOf20.RNASeq.1.txt	Entered
-12/7/15	WCDT/prostate.exome.1.txt	Finished
-20151209	WCDT/medbook_OHSU_RNA-seq.3.txt	Entered
+12/7/15	WCDT/prostate.wxs.2.txt	In Progress
+12/9/15	WCDT/medbook_OHSU_RNA-seq.3.txt	Entered
