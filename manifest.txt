@@ -1,5 +1,5 @@
 Date	Batch	Status
-20151205	ISPY2/BatchOf20.RNASeq.1.txt	Entered
+20151205  ISPY2/BatchOf20.RNASeq.1.txt	Entered
 
 20151207	WCDT/prostate.wxs.2.txt	In Progress
 20151208  WCDT/prostate.wxs.2.txt MuTect pipeline run, results available
