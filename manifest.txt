@@ -1,12 +1,12 @@
 Date	Batch	Status
-20151205  ISPY2/BatchOf20.RNASeq.1.txt	Entered
+20151205	ISPY2/BatchOf20.RNASeq.1.txt	Entered
 
 20151207	WCDT/prostate.wxs.2.txt	In Progress
-20151208  WCDT/prostate.wxs.2.txt MuTect pipeline run, results available
-20151215  WCDT/prostate.wxs.2.txt MuSe pipeline run, results available
+20151208	WCDT/prostate.wxs.2.txt	MuTect pipeline run, results available
+20151215	WCDT/prostate.wxs.2.txt	MuSe pipeline run, results available
 
 20151209	WCDT/medbook_OHSU_RNA-seq.3.txt	Entered
 
-20151214  WCDT/medbook_UCSF_RNA-seq.4.txt In Progress
+20151214	WCDT/medbook_UCSF_RNA-seq.4.txt	In Progress
 
-20151214  WCDT/medbook_UCSF_RNA-seq.5.txt Entered
+20151214	WCDT/medbook_UCSF_RNA-seq.5.txt	Entered
