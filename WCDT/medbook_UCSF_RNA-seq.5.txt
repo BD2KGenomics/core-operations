@@ -1,0 +1,4 @@
+DTB-042-Baseline-UCSF,https://s3-us-west-2.amazonaws.com/cgl-driver-projects-encrypted/wcdt/plloyd_20151214/DTB-042-Baseline-UCSF.tar
+DTB-104-Baseline-UCSF,https://s3-us-west-2.amazonaws.com/cgl-driver-projects-encrypted/wcdt/plloyd_20151214/DTB-104-Baseline-UCSF.tar
+DTB-149-Baseline-UCSF,https://s3-us-west-2.amazonaws.com/cgl-driver-projects-encrypted/wcdt/plloyd_20151214/DTB-149-Baseline-UCSF.tar
+DTB-151-Baseline-UCSF,https://s3-us-west-2.amazonaws.com/cgl-driver-projects-encrypted/wcdt/plloyd_20151214/DTB-151-Baseline-UCSF.tar
