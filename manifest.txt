@@ -9,4 +9,6 @@ Date	Batch	Status
 
 20151214	WCDT/medbook_UCSF_RNA-seq.4.txt	In Progress
 
-20151214	WCDT/medbook_UCSF_RNA-seq.5.txt	Entered
+20151214	WCDT/medbook_UCSF_RNA-seq.5.txt	In Progress
+
+20151215  WCDT/medbook_UCSF_RNA-seq.6.txt Entered
