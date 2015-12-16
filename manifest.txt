@@ -5,10 +5,15 @@ Date	Batch	Status
 20151208	WCDT/prostate.wxs.2.txt	MuTect pipeline run, results available
 20151215	WCDT/prostate.wxs.2.txt	MuSe pipeline run, results available
 
-20151209	WCDT/medbook_OHSU_RNA-seq.3.txt	Entered
+20151209	WCDT/medbook_OHSU_RNA-seq.3.txt	Uploaded
+20151215  WCDT/medbook_OHSU_RNA-seq.3.txt RNASeq pipeline started
 
-20151214	WCDT/medbook_UCSF_RNA-seq.4.txt	In Progress
+20151214	WCDT/medbook_UCSF_RNA-seq.4.txt	Uploaded
+20151214  WCDT/medbook_UCSF_RNA-seq.4.txt RNASeq pipeline started
+20151215  WCDT/medbook_UCSF_RNA-seq.4.txt RNASeq pipeline run
 
-20151214	WCDT/medbook_UCSF_RNA-seq.5.txt	In Progress
+20151214	WCDT/medbook_UCSF_RNA-seq.5.txt	Uploaded
+20151215  WCDT/medbook_UCSF_RNA-seq.5.txt RNASeq pipeline started 
 
-20151215  WCDT/medbook_UCSF_RNA-seq.6.txt In Progress
+20151215  WCDT/medbook_UCSF_RNA-seq.6.txt Uploaded
+20151215  WCDT/medbook_UCSF_RNA-seq.6.txt RNASeq pipeline started
