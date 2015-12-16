@@ -40,7 +40,7 @@ When a pipeline has completed on the batch and a set of outputs are delivered, t
 
 ### Problems and outliers
 Whenever a sample requires special handling, or cannot be processed with the rest of the batch (e.g. possible file corruption, error conditions that require further investigation), then: 
-  1. Move the problem samples into a separate sub-batch file.
+  1. Move the entries for problem samples from the batch file into a separate sub-batch file.
   2. Note the creation of the sub-batch file in the manifest.txt file and under the Github issue.  If one or more samples has to be cancelled (e.g. because of problems with the input data), then: 
     1. Unless an entire existing batch or sub-batch needs to be cancelled, then:
       1. Move the sample(s) in question into a separate sub-batch file 
