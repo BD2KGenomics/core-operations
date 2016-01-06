@@ -7,6 +7,8 @@ Date	Batch	Status
 
 20151209	WCDT/medbook_OHSU_RNA-seq.3.txt	Uploaded
 20151215  WCDT/medbook_OHSU_RNA-seq.3.txt RNASeq pipeline started
+20160106	WCDT/medbook_OHSU_RNA-seq.3.input.txt	Uploaded
+20160106	WCDT/medbook_OHSU_RNA-seq.3.input.txt	In process
 
 20151214	WCDT/medbook_UCSF_RNA-seq.4.txt	Uploaded
 20151214  WCDT/medbook_UCSF_RNA-seq.4.txt RNASeq pipeline started
