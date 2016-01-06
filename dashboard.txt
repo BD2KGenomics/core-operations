@@ -17,3 +17,7 @@ Date	Batch	Status
 
 20151215  WCDT/medbook_UCSF_RNA-seq.6.txt Uploaded
 20151215  WCDT/medbook_UCSF_RNA-seq.6.txt RNASeq pipeline started
+
+20160105	WCDT/medbook_UCSF_RNA-seq.20160106.8.input.txt	Entered
+20160106	WCDT/medbook_UCSF_RNA-seq.20160106.8.input.txt	Uploaded
+20160106	WCDT/medbook_UCSF_RNA-seq.20160106.8.input.txt	In process
