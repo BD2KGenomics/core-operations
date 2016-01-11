@@ -26,3 +26,6 @@ Date	Batch	Status
 20160106	WCDT/medbook_UCSF_RNA-seq.20160106.8.input.txt	In process
 20160108	WCDT/medbook_UCSF_RNA-seq.20160106.8.input.txt	Failed
 20160108	WCDT/medbook_UCSF_RNA-seq.20160106.8.input.txt	In process
+20160110	WCDT/medbook_UCSF_RNA-seq.20160106.8.input.txt	Completed
+20160110	WCDT/medbook_UCSF_RNA-seq.20160106.8.input.txt	QC
+20160111	WCDT/medbook_UCSF_RNA-seq.20160106.8.input.txt	Notified
