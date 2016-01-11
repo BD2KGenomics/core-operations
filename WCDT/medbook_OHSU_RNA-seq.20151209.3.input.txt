@@ -1,2 +1,2 @@
-Sample_RNA150410JA_11_1-9-15_M12_ARwt_0uM_JQ1.tar,https://s3-us-west-2.amazonaws.com/cgl-driver-projects-encrypted/wcdt/plloyd_20151209ohsu/Sample_RNA150410JA_11_1-9-15_M12_ARwt_0uM_JQ1.tar
-Sample_RNA150410JA_13_9-3-14_LNCaP_0uM_JQ1.tar,https://s3-us-west-2.amazonaws.com/cgl-driver-projects-encrypted/wcdt/plloyd_20151209ohsu/Sample_RNA150410JA_13_9-3-14_LNCaP_0uM_JQ1.tar
+Sample_RNA150410JA_11_1-9-15_M12_ARwt_0uM_JQ1,https://s3-us-west-2.amazonaws.com/cgl-driver-projects-encrypted/wcdt/plloyd_20151209ohsu/Sample_RNA150410JA_11_1-9-15_M12_ARwt_0uM_JQ1.tar
+Sample_RNA150410JA_13_9-3-14_LNCaP_0uM_JQ1,https://s3-us-west-2.amazonaws.com/cgl-driver-projects-encrypted/wcdt/plloyd_20151209ohsu/Sample_RNA150410JA_13_9-3-14_LNCaP_0uM_JQ1.tar
