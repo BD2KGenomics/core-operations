@@ -34,3 +34,5 @@ Date	Batch	Status
 20160111	WCDT/medbook_UCSF_RNA-seq.20160111.9.input.txt	Uploaded
 20160111	WCDT/medbook_UCSF_RNA-seq.20160111.9.input.txt	In process
 20160111	WCDT/medbook_UCSF_RNA-seq.20160111.9.input.txt	Completed
+
+20160114	CKCC/PNOC_RNA-seq.20160114.10.input.txt	Entered
