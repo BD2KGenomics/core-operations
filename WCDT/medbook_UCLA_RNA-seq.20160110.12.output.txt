@@ -1,0 +1,13 @@
+AD1_S1,https://s3-us-west-2.amazonaws.com/cgl-driver-projects/wcdt/plloyd_20160110/AD1_S1.tar.gz
+AD2_S2,https://s3-us-west-2.amazonaws.com/cgl-driver-projects/wcdt/plloyd_20160110/AD2_S2.tar.gz
+AD3_S3,https://s3-us-west-2.amazonaws.com/cgl-driver-projects/wcdt/plloyd_20160110/AD3_S3.tar.gz
+BSCA_S2,https://s3-us-west-2.amazonaws.com/cgl-driver-projects/wcdt/plloyd_20160110/BSCA_S2.tar.gz
+BSNA_S3,https://s3-us-west-2.amazonaws.com/cgl-driver-projects/wcdt/plloyd_20160110/BSNA_S3.tar.gz
+ICAPMinus_S8,https://s3-us-west-2.amazonaws.com/cgl-driver-projects/wcdt/plloyd_20160110/ICAPMinus_S8.tar.gz
+ICAPlus_S9,https://s3-us-west-2.amazonaws.com/cgl-driver-projects/wcdt/plloyd_20160110/ICAPlus_S9.tar.gz
+INAMinus_S10,https://s3-us-west-2.amazonaws.com/cgl-driver-projects/wcdt/plloyd_20160110/INAMinus_S10.tar.gz
+INAPlus_S1,https://s3-us-west-2.amazonaws.com/cgl-driver-projects/wcdt/plloyd_20160110/INAPlus_S1.tar.gz
+SC1_S4,https://s3-us-west-2.amazonaws.com/cgl-driver-projects/wcdt/plloyd_20160110/SC1_S4.tar.gz
+SC2_S5,https://s3-us-west-2.amazonaws.com/cgl-driver-projects/wcdt/plloyd_20160110/SC2_S5.tar.gz
+SC3_S6,https://s3-us-west-2.amazonaws.com/cgl-driver-projects/wcdt/plloyd_20160110/SC3_S6.tar.gz
+SC4_S7,https://s3-us-west-2.amazonaws.com/cgl-driver-projects/wcdt/plloyd_20160110/SC4_S7.tar.gz

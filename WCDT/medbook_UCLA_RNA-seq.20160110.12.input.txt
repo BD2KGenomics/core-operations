@@ -1,0 +1,13 @@
+AD1_S1,https://s3-us-west-2.amazonaws.com/cgl-driver-projects-encrypted/wcdt/plloyd_20160110/AD1_S1.tar
+AD2_S2,https://s3-us-west-2.amazonaws.com/cgl-driver-projects-encrypted/wcdt/plloyd_20160110/AD2_S2.tar
+AD3_S3,https://s3-us-west-2.amazonaws.com/cgl-driver-projects-encrypted/wcdt/plloyd_20160110/AD3_S3.tar
+BSCA_S2,https://s3-us-west-2.amazonaws.com/cgl-driver-projects-encrypted/wcdt/plloyd_20160110/BSCA_S2.tar
+BSNA_S3,https://s3-us-west-2.amazonaws.com/cgl-driver-projects-encrypted/wcdt/plloyd_20160110/BSNA_S3.tar
+ICAPMinus_S8,https://s3-us-west-2.amazonaws.com/cgl-driver-projects-encrypted/wcdt/plloyd_20160110/ICAPMinus_S8.tar
+ICAPlus_S9,https://s3-us-west-2.amazonaws.com/cgl-driver-projects-encrypted/wcdt/plloyd_20160110/ICAPlus_S9.tar
+INAMinus_S10,https://s3-us-west-2.amazonaws.com/cgl-driver-projects-encrypted/wcdt/plloyd_20160110/INAMinus_S10.tar
+INAPlus_S1,https://s3-us-west-2.amazonaws.com/cgl-driver-projects-encrypted/wcdt/plloyd_20160110/INAPlus_S1.tar
+SC1_S4,https://s3-us-west-2.amazonaws.com/cgl-driver-projects-encrypted/wcdt/plloyd_20160110/SC1_S4.tar
+SC2_S5,https://s3-us-west-2.amazonaws.com/cgl-driver-projects-encrypted/wcdt/plloyd_20160110/SC2_S5.tar
+SC3_S6,https://s3-us-west-2.amazonaws.com/cgl-driver-projects-encrypted/wcdt/plloyd_20160110/SC3_S6.tar
+SC4_S7,https://s3-us-west-2.amazonaws.com/cgl-driver-projects-encrypted/wcdt/plloyd_20160110/SC4_S7.tar
