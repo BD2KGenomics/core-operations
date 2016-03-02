@@ -1,0 +1,85 @@
+PNOC samples are stored at 
+amazon aws s3://cbttc.seq.data/pnoc/
+
+We received a table, PNOC_sample_summary.xlsx, that contains information on sample names and fastq locations.
+There are two tabs: feasibility_data and trial_data. These were saved as text files
+feasibility_data.txt
+trial_data.txt
+
+The program parse_PNOC_table.py reads these tables and performs the following steps:
+
+- Create a sample UUID that consists of the first part of the fastq names that belong to the sample
+- Group samples by tumor DNA (tumor_WXS), control (Constitutional) DNA(control_WXS), and Tumor RNA (RNASeq)
+- Download all files for a sample and decrypt them
+- Concatenate all fastq.gz R1 files for a single group
+- Concatenate all fastq.gz R2 files for a single group
+- Encrypt the files
+- Upload these files to https://s3-us-west-2.amazonaws.com/cgl-driver-projects-encrypted/treehouse/pnoc-samples
+- Output a config list of UUIDs and corresponding fastq.gz files
+
+# all of this happens behind the a firewall (on a toil cluster machine) to ensure security.
+
+Naming example:
+
+study 		    PNOC003-01
+libraries	    Tumor DNA
+(unnamed column)    T3_A1STX_A04116 
+Fastq Path	    PNOC003-01/FASTQs/C021_0001_20140916_BR_Whole_T3_A1STX_A04116_HAB2CADXX_AAACAT_L001_R1_001.fastq.gz
+	 	    PNOC003-01/FASTQs/C021_0001_20140916_BR_Whole_T3_A1STX_A04116_HAB2CADXX_AAACAT_L001_R2_001.fastq.gz
+		    PNOC003-01/FASTQs/C021_0001_20140916_BR_Whole_T3_A1STX_A04116_HAB2CADXX_AAACAT_L002_R1_001.fastq.gz
+		    PNOC003-01/FASTQs/C021_0001_20140916_BR_Whole_T3_A1STX_A04116_HAB2CADXX_AAACAT_L002_R2_001.fastq.gz"
+Results in 
+ 	
+https://s3-us-west-2.amazonaws.com/cgl-driver-projects-encrypted/treehouse/pnoc-samples/C021_0001_20140916_tumor_WXS.R1.fastq.gz
+https://s3-us-west-2.amazonaws.com/cgl-driver-projects-encrypted/treehouse/pnoc-samples/C021_0001_20140916_tumor_WXS.R2.fastq.gz
+
+where
+C021_0001_20140916 is the sample UUID
+tumor_WXS refers to tumor DNA (tumor exome)
+
+The config line for this sample:
+C021_0001_20140916_tumor_WXS,https://s3-us-west-2.amazonaws.com/cgl-driver-projects-encrypted/treehouse/pnoc-samples/C021_0001_20140916_tumor_WXS.R1.fastq.gz,https://s3-us-west-2.amazonaws.com/cgl-driver-projects-encrypted/treehouse/pnoc-samples/C021_0001_20140916_tumor_WXS.R2.fastq.gz
+
+
+##########
+
+Details on actual process on a Toil box:
+
+# the full run:
+cgcloud create -t i2.xlarge mesos-box
+cgcloud ssh -a mesos-box
+sudo pip install awscli
+sudo pip install s3am --pre # installs boto
+sudo chmod 777 /mnt/ephemeral/
+exit
+cgcloud rsync mesos-box -v /data/tmp/* :/home/mesosbox/
+
+# these files are in /data/tmp
+feasibility_data.txt	# converted from PNOC_sample_summary.xlsx
+trial_data.txt	        # converted from PNOC_sample_summary.xlsx
+feas.pw                 # password file from submitters
+trial.pw                # password file from submitters
+master.key	        # our credentials for secure upload to s3
+our.boto	        # move to .boto on the mesosbox
+
+# the actual run
+./parse_PNOC_table.py -i trial_data.txt -p trial.pw -t trial > feasibility.config
+./parse_PNOC_table.py -i feasibility_data.txt -p feas.pw -t feas > trial.config
+
+
+##########
+
+# Our RNASeq pipeline requires tar files that contain these fastq.gz files in such a way that they untar in the same directory
+# To create:
+
+# feasibility.config contains the UUID, fastq_R1.gz, fastq_R2.gz from the feasibility study
+
+grep 'RNASeq' feasibility.config > feasibility.rnaseq
+./s3fastqToTar.py -c feasibility.rnaseq > pnoc.rnaseq.config
+
+grep 'RNASeq' trial.config > trial.rnaseq
+./s3fastqToTar.py -c trial.rnaseq >> pnoc.rnaseq.config
+
+# the config file now contains the UUID and a link to the tar file:
+CPBT_0001_1_tumor_RNASeq,https://s3-us-west-2.amazonaws.com/cgl-driver-projects-encrypted/treehouse/pnoc-samples/CPBT_0001_1_tumor_RNASeq.tar
+
