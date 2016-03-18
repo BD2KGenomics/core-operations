@@ -10,6 +10,7 @@ Date	Batch	Status
 20160106	WCDT/medbook_OHSU_RNA-seq.3.input.txt	Uploaded
 20160106	WCDT/medbook_OHSU_RNA-seq.3.input.txt	In process
 20160107	WCDT/medbook_OHSU_RNA-seq.3.input.txt	Failed
+20160318  WCDT/medbook_OHSU_RNA-seq.3.input.txt Reported as completed by Paul
 
 20151214	WCDT/medbook_UCSF_RNA-seq.4.txt	Uploaded
 20151214  WCDT/medbook_UCSF_RNA-seq.4.txt RNASeq pipeline started
@@ -37,3 +38,5 @@ Date	Batch	Status
 
 20160114	CKCC/PNOC_RNA-seq.20160114.10.input.txt	Entered
 20160308  CKCC/PNOC_RNA-seq.20160114.10.input.txt RNASeq analysis run as part of big recompute, results delivered to Medbook.
+
+20160318  WCDT/medbook_UCSF_RNA-seq.20160120.11 Reported as done by Paul Lloyd
