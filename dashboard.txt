@@ -40,3 +40,13 @@ Date	Batch	Status
 20160308  CKCC/PNOC_RNA-seq.20160114.10.input.txt RNASeq analysis run as part of big recompute, results delivered to Medbook.
 
 20160318  WCDT/medbook_UCSF_RNA-seq.20160120.11 Reported as done by Paul Lloyd
+
+20160321  CKCC/stanford-rnaseq-20160318.13.input.txt
+
+20160321  CKCC/ucsf-wxs-20160318.14.input.txt
+
+20160321  CKCC/ucsf-rnaseq-20160318.17.input.txt
+
+20160318  WCDT/medbook_UCLA_RNA-seq.20160110.20	Reported as done by Paul Lloyd
+
+20160321 CKCC/ckcc_PNOC_WXS.20160301.21		Alignment work by Paul.  Previously named ckcc_PNOC_WXS.20160301.14.input.txt.
