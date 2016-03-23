@@ -41,9 +41,11 @@ Date	Batch	Status
 
 20160318  WCDT/medbook_UCSF_RNA-seq.20160120.11 Reported as done by Paul Lloyd
 
-20160321  CKCC/stanford-rnaseq-20160318.13.input.txt
+20160321  CKCC/stanford-rnaseq-20160318.13.input.txt	Entered
+20160322  CKCC/stanford-rnaseq-20160318.13.input.txt	Completed
 
-20160321  CKCC/ucsf-wxs-20160318.14.input.txt
+20160321  CKCC/ucsf-wxs-20160318.14.input.txt	Entered
+20160322  CKCC/ucsf-wxs-20160318.14.input.txt	Failed
 
 20160321  CKCC/ucsf-rnaseq-20160318.17.input.txt
 
