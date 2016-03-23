@@ -41,12 +41,11 @@ Date	Batch	Status
 
 20160318  WCDT/medbook_UCSF_RNA-seq.20160120.11 Reported as done by Paul Lloyd
 
-20160321  CKCC/stanford-rnaseq-20160318.13.input.txt	 Entered
-20160322  CKCC/stanford-rnaseq-20160318.13.input.txt	 Samples uploaded to the inbox
-20160323  CKCC/stanford-rnaseq-20160318.13.input.txt	 RNASeq-CGL pipeline run
+20160321  CKCC/stanford-rnaseq-20160318.13.input.txt	Entered
+20160322  CKCC/stanford-rnaseq-20160318.13.input.txt	Completed
 
 20160321  CKCC/ucsf-wxs-20160318.14.input.txt	Entered
-20160323  CKCC/ucsf-wxs-20160318.14.input.txt	Samples received in the inbox
+20160322  CKCC/ucsf-wxs-20160318.14.input.txt	Failed
 
 20160322  CKCC/ucsf-rnaseq-20160318.17.input.txt	Samples received in the inbox
 20160322  CKCC/ucsf-rnaseq-20160318.17.input.txt	RNASeq-CGL pipeline run, issues detected
