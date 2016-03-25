@@ -1,0 +1,12 @@
+K10_S6,https://s3-us-west-2.amazonaws.com/cgl-driver-projects-encrypted/ckcc-stanford/K10_S6.tar
+K11_S7,https://s3-us-west-2.amazonaws.com/cgl-driver-projects-encrypted/ckcc-stanford/K11_S7.tar
+K12_S8,https://s3-us-west-2.amazonaws.com/cgl-driver-projects-encrypted/ckcc-stanford/K12_S8.tar
+K1_S1,https://s3-us-west-2.amazonaws.com/cgl-driver-projects-encrypted/ckcc-stanford/K1_S1.tar
+K2_S2,https://s3-us-west-2.amazonaws.com/cgl-driver-projects-encrypted/ckcc-stanford/K2_S2.tar
+K3_S3,https://s3-us-west-2.amazonaws.com/cgl-driver-projects-encrypted/ckcc-stanford/K3_S3.tar
+K4_S4,https://s3-us-west-2.amazonaws.com/cgl-driver-projects-encrypted/ckcc-stanford/K4_S4.tar
+K5_S9,https://s3-us-west-2.amazonaws.com/cgl-driver-projects-encrypted/ckcc-stanford/K5_S9.tar
+K6_S10,https://s3-us-west-2.amazonaws.com/cgl-driver-projects-encrypted/ckcc-stanford/K6_S10.tar
+K7_S11,https://s3-us-west-2.amazonaws.com/cgl-driver-projects-encrypted/ckcc-stanford/K7_S11.tar
+K8_S12,https://s3-us-west-2.amazonaws.com/cgl-driver-projects-encrypted/ckcc-stanford/K8_S12.tar
+K9_S5,https://s3-us-west-2.amazonaws.com/cgl-driver-projects-encrypted/ckcc-stanford/K9_S5.tar
