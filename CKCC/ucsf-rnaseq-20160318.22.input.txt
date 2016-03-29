@@ -1,0 +1,1 @@
+C021_0017_RNA_new,https://s3-us-west-2.amazonaws.com/cgl-driver-projects-encrypted/ucsf-pnoc/ucsf-fastq-20160318/C021_0017_RNA_new.tar
