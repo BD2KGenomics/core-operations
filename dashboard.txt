@@ -47,8 +47,11 @@ Date	Batch	Status
 20160322  CKCC/ucsf-wxs-20160318.14.input.txt	Samples received in the inbox
 
 20160321  CKCC/ucsf-rnaseq-20160318.17.input.txt	Entered
-20160322  CKCC/ucsf-rnaseq-20160318.17.input.txt	Failed
-20160323  CKCC/uscf-rnaseq-20160318.17.input.txt	The one sample that failed (C021_0017_RNA) reloaded and entered as a separate batch, #22 (CKCC/uscf-rnaseq-20160318.22.input.txt)
+20160322  CKCC/ucsf-rnaseq-20160318.17.input.txt	Failed on two samples: one missing (md5sum only), one incomplete fastq
+20160323  CKCC/uscf-rnaseq-20160318.17.input.txt	The incomplete fastq (C021_0017_RNA) reloaded and entered as a separate batch, #22 (CKCC/uscf-rnaseq-20160318.22.input.txt)
+20160329  CKCC/ucsf-rnaseq-20160318.17.input.txt	The missing sample was uploaded by requester, processed, and completed. Results communicated.
+20160329  CKCC/ucsf-rnaseq-20160318.17.input.txt	Completed
+
 
 20160318  WCDT/medbook_UCLA_RNA-seq.20160110.20	Reported as done by Paul Lloyd
 
