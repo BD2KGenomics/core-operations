@@ -62,3 +62,5 @@ Date	Batch	Status
 20160328 CKCC/uscf-rnaseq-20160318.22.input.txt	Completed
 
 20160323 USC/CTC.Stage2And3.rnaseq.20160323.23.input.txt	Entered
+20160328 USC/CTC.Stage2And3.rnaseq.20160323.23.input.txt	Copied and deleted input files 
+20160411 USC/CTC.Stage2And3.rnaseq.20160323.23.input.txt	Moved inputs to new location; started run
