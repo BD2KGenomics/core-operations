@@ -66,3 +66,4 @@ Date	Batch	Status
 20160411 USC/CTC.Stage2And3.rnaseq.20160323.23.input.txt	Moved inputs to new location; started run
 20160412 USC/CTC.Stage2And3.rnaseq.20160323.23.input.txt	Completed. Two failed samples: Sample_78956CTC (one incomplete R2 fastq) and JL09182014 (unpacks into multi sample directory structure with merged and single fastq files)
 
+20160417 CKCC/stanford-rnaseq-20160417.35.input.txt		Entered
