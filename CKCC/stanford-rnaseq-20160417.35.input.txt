@@ -1,4 +1,4 @@
-432
-436
-476
-477
+432,https://s3-us-west-2.amazonaws.com/cgl-driver-projects-encrypted/ckcc-stanford/fastq_issue35_input/432.tar
+436,https://s3-us-west-2.amazonaws.com/cgl-driver-projects-encrypted/ckcc-stanford/fastq_issue35_input/436.tar
+476,https://s3-us-west-2.amazonaws.com/cgl-driver-projects-encrypted/ckcc-stanford/fastq_issue35_input/476.tar
+477,https://s3-us-west-2.amazonaws.com/cgl-driver-projects-encrypted/ckcc-stanford/fastq_issue35_input/477.tar
