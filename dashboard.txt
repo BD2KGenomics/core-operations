@@ -68,3 +68,4 @@ Date	Batch	Status
 
 20160417 CKCC/stanford-rnaseq-20160417.35.input.txt		Entered
 20160418 CKCC/stanford-rnaseq-20160417.35.input.txt		Copied files; started run
+20160418 CKCC/stanford-rnaseq-20160417.35.input.txt		Completed
