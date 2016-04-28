@@ -47,13 +47,25 @@ Date	Batch	Status
 20160322  CKCC/ucsf-wxs-20160318.14.input.txt	Samples received in the inbox
 
 20160321  CKCC/ucsf-rnaseq-20160318.17.input.txt	Entered
-20160322  CKCC/ucsf-rnaseq-20160318.17.input.txt	Failed
-20160323  CKCC/uscf-rnaseq-20160318.17.input.txt	The one sample that failed (C021_0017_RNA) reloaded and entered as a separate batch (CKCC/uscf-rnaseq-20160318.22.input.txt)
+20160322  CKCC/ucsf-rnaseq-20160318.17.input.txt	Failed on two samples: one missing (md5sum only), one incomplete fastq
+20160323  CKCC/uscf-rnaseq-20160318.17.input.txt	The incomplete fastq (C021_0017_RNA) reloaded and entered as a separate batch, #22 (CKCC/uscf-rnaseq-20160318.22.input.txt)
+20160329  CKCC/ucsf-rnaseq-20160318.17.input.txt	The missing sample was uploaded by requester, processed, and completed. Results communicated.
+20160329  CKCC/ucsf-rnaseq-20160318.17.input.txt	Completed
+
 
 20160318  WCDT/medbook_UCLA_RNA-seq.20160110.20	Reported as done by Paul Lloyd
 
 20160321 CKCC/ckcc_PNOC_WXS.20160301.21		Alignment work by Paul.  Previously named ckcc_PNOC_WXS.20160301.14.input.txt.
 
 20160323 CKCC/uscf-rnaseq-20160318.22.input.txt	Entered
+20160328 CKCC/uscf-rnaseq-20160318.22.input.txt	Uploaded
+20160328 CKCC/uscf-rnaseq-20160318.22.input.txt	Completed
 
 20160323 USC/CTC.Stage2And3.rnaseq.20160323.23.input.txt	Entered
+20160328 USC/CTC.Stage2And3.rnaseq.20160323.23.input.txt	Copied and deleted input files 
+20160411 USC/CTC.Stage2And3.rnaseq.20160323.23.input.txt	Moved inputs to new location; started run
+20160412 USC/CTC.Stage2And3.rnaseq.20160323.23.input.txt	Completed. Two failed samples: Sample_78956CTC (one incomplete R2 fastq) and JL09182014 (unpacks into multi sample directory structure with merged and single fastq files)
+
+20160417 CKCC/stanford-rnaseq-20160417.35.input.txt		Entered
+20160418 CKCC/stanford-rnaseq-20160417.35.input.txt		Copied files; started run
+20160418 CKCC/stanford-rnaseq-20160417.35.input.txt		Completed

@@ -1,4 +1,5 @@
 C021_0003_RNA,https://s3-us-west-2.amazonaws.com/cgl-driver-projects-encrypted/ucsf-pnoc/ucsf-fastq-20160318/C021_0003_RNA.tar
 C021_0006Relapse_RNA,https://s3-us-west-2.amazonaws.com/cgl-driver-projects-encrypted/ucsf-pnoc/ucsf-fastq-20160318/C021_0006Relapse_RNA.tar
+C021_0006_RNA,https://s3-us-west-2.amazonaws.com/cgl-driver-projects-encrypted/ucsf-pnoc/ucsf-fastq-20160318/C021_0006_RNA.tar
 C021_0016_RNA,https://s3-us-west-2.amazonaws.com/cgl-driver-projects-encrypted/ucsf-pnoc/ucsf-fastq-20160318/C021_0016_RNA.tar
 C021_0017_RNA,https://s3-us-west-2.amazonaws.com/cgl-driver-projects-encrypted/ucsf-pnoc/ucsf-fastq-20160318/C021_0017_RNA.tar
