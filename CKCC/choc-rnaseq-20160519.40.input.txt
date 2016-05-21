@@ -1,0 +1,9 @@
+AH07020812_ACACGA,/pod/pstore/groups/treehouse/production_files/AH07020812_ACACGA
+AO20062212_GTGGCC,/pod/pstore/groups/treehouse/production_files/AO20062212_GTGGCC
+BV18060612_CACCTC,/pod/pstore/groups/treehouse/production_files/BV18060612_CACCTC
+CV11030912_CACACA,/pod/pstore/groups/treehouse/production_files/CV11030912_CACACA
+JA10030112_GTGTTA,/pod/pstore/groups/treehouse/production_files/JA10030112_GTGTTA
+JP21062512_TGTTGC,/pod/pstore/groups/treehouse/production_files/JP21062512_TGTTGC
+KC23072512_AAGGGA,/pod/pstore/groups/treehouse/production_files/KC23072512_AAGGGA
+KS08021312_TGTGAA,/pod/pstore/groups/treehouse/production_files/KS08021312_TGTGAA
+NK09031127_ACAAAC,/pod/pstore/groups/treehouse/production_files/NK09031127_ACAAAC

@@ -69,3 +69,9 @@ Date	Batch	Status
 20160417 CKCC/stanford-rnaseq-20160417.35.input.txt		Entered
 20160418 CKCC/stanford-rnaseq-20160417.35.input.txt		Copied files; started run
 20160418 CKCC/stanford-rnaseq-20160417.35.input.txt		Completed
+
+20160520 CKCC/choc-rnaseq-20160519.40.input.txt		Entered
+20160520 CKCC/choc-rnaseq-20160519.40.input.txt		tarred fastq files; ran
+20160520 CKCC/choc-rnaseq-20160519.40.input.txt		8 samples finished; one failed. Started rerun.
+20160520 CKCC/choc-rnaseq-20160519.40.input.txt		Completed
+
