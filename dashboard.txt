@@ -75,3 +75,6 @@ Date	Batch	Status
 20160520 CKCC/choc-rnaseq-20160519.40.input.txt		8 samples finished; one failed. Started rerun.
 20160520 CKCC/choc-rnaseq-20160519.40.input.txt		Completed
 
+20160525 WCDT/oicr.42.input.txt		Entered
+20160531 WCDT/oicr.42.input.txt		Started
+20160601 WCDT/oicr.42.input.txt		25 samples finished, 7 failed due to naming issues. Started rerun
