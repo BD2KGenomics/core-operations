@@ -79,3 +79,6 @@ Date	Batch	Status
 20160531 WCDT/oicr.42.input.txt		Started
 20160601 WCDT/oicr.42.input.txt		25 samples finished, 7 failed due to naming issues. Started rerun
 20160601 WCDT/oicr.42.input.txt		Completed
+20160601 WCDT/oicr.42.input.txt		Output URLs delivered to Ted, Robert, Ellen, Teo
+
+20160602 ISPY2/ispy2.20160602.29.input.txt     Entered
