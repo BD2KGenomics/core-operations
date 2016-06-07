@@ -82,3 +82,5 @@ Date	Batch	Status
 20160601 WCDT/oicr.42.input.txt		Output URLs delivered to Ted, Robert, Ellen, Teo
 
 20160602 ISPY2/ispy2.20160602.29.input.txt     Entered
+20160606 ISPY2/ispy2.20160602.29.input.txt     All files received
+20160607 ISPY2/ispy2.20160602.29.input.txt     Started
