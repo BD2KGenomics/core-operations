@@ -85,3 +85,6 @@ Date	Batch	Status
 20160606 ISPY2/ispy2.20160602.29.input.txt     All files received
 20160607 ISPY2/ispy2.20160602.29.input.txt     Started
 20160608 ISPY2/ispy2.20160602.29.input.txt     164 of 166 finished, restarted last two samples
+20160613 ISPY/ispy2.20160602.29.input.txt      All but one sample has been run.  That one sample is being restarted as a single-sample batch.
+
+20160613 ISPY2/ispy2.20160613.46.input.txt     Entered
