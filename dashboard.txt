@@ -88,3 +88,5 @@ Date	Batch	Status
 20160613 ISPY/ispy2.20160602.29.input.txt      All but one sample has been run.  That one sample is being restarted as a single-sample batch.
 
 20160613 ISPY2/ispy2.20160613.46.input.txt     Entered
+
+20160613 USC/CTC.Stage2And3.rnaseq.20160613.47.input.txt	Entered
