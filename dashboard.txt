@@ -90,3 +90,4 @@ Date	Batch	Status
 20160613 ISPY2/ispy2.20160613.46.input.txt     Entered
 
 20160613 USC/CTC.Stage2And3.rnaseq.20160613.47.input.txt	Entered
+20160614 USC/CTC.Stage2And3.rnaseq.20160613.47.input.txt	Started and Completed

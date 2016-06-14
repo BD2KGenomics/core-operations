@@ -1,1 +1,1 @@
-T1-Sample_24205-2
+T1-Sample_24205-2,https://s3-us-west-2.amazonaws.com/cgl-driver-projects-encrypted/ispy2/ispy2_issue46_input/T1-Sample_24205-2.tar
