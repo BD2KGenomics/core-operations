@@ -89,7 +89,11 @@ Date	Batch	Status
 
 20160613 ISPY2/ispy2.20160613.46.input.txt     Entered
 20160614 ISPY2/ispy2.20160613.46.input.txt     Started and Completed
+20160614 ISPY2/ispy2.20160613.46.input.txt     Data returned to the collaborator, Denise Wolf
 
 20160613 USC/CTC.Stage2And3.rnaseq.20160613.47.input.txt	Entered
 20160614 USC/CTC.Stage2And3.rnaseq.20160613.47.input.txt	Started 
 20160615 USC/CTC.Stage2And3.rnaseq.20160613.47.input.txt	14 of 17 finished, remaining 3 are corrupted fastq
+20160616 USC/CTC.Stage2And3.rnaseq.20160613.47.input.txt	Data returned to the collaborator, Julie Lang
+
+20160617 USC/CTC.Stage2And3.rnaseq.20160617.48.input.txt	Entered
