@@ -97,3 +97,5 @@ Date	Batch	Status
 20160616 USC/CTC.Stage2And3.rnaseq.20160613.47.input.txt	Data returned to the collaborator, Julie Lang
 
 20160617 USC/CTC.Stage2And3.rnaseq.20160617.48.input.txt	Entered
+
+20160617 USC/CTC.Stage4.rnaseq.20160617.49.input.txt	Entered
