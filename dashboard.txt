@@ -101,3 +101,5 @@ Date	Batch	Status
 20160617 USC/CTC.Stage4.rnaseq.20160617.49.input.txt	Entered
 20160622 USC/CTC.Stage4.rnaseq.20160617.49.input.txt	Started
 20160622 USC/CTC.Stage4.rnaseq.20160617.49.input.txt	Completed
+
+20160629 CKCC/all.rnaseq.bam.redo.20160629.50.input.txt	Entered
