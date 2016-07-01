@@ -61,3 +61,14 @@ PR281,https://s3-us-west-2.amazonaws.com/cgl-driver-projects-encrypted/ckcc-stan
 RM291,https://s3-us-west-2.amazonaws.com/cgl-driver-projects-encrypted/ckcc-stanford/ckcc_issue50_input/RM291.tar
 SK250,https://s3-us-west-2.amazonaws.com/cgl-driver-projects-encrypted/ckcc-stanford/ckcc_issue50_input/SK250.tar
 TR030,https://s3-us-west-2.amazonaws.com/cgl-driver-projects-encrypted/ckcc-stanford/ckcc_issue50_input/TR030.tar
+GT381,https://s3-us-west-2.amazonaws.com/cgl-driver-projects-encrypted/ckcc-stanford/ckcc_issue50_input/GT381.tar
+HT020,https://s3-us-west-2.amazonaws.com/cgl-driver-projects-encrypted/ckcc-stanford/ckcc_issue50_input/HT020.tar
+JB410,https://s3-us-west-2.amazonaws.com/cgl-driver-projects-encrypted/ckcc-stanford/ckcc_issue50_input/JB410.tar
+JC156,https://s3-us-west-2.amazonaws.com/cgl-driver-projects-encrypted/ckcc-stanford/ckcc_issue50_input/JC156.tar
+KA122,https://s3-us-west-2.amazonaws.com/cgl-driver-projects-encrypted/ckcc-stanford/ckcc_issue50_input/KA122.tar
+KE125,https://s3-us-west-2.amazonaws.com/cgl-driver-projects-encrypted/ckcc-stanford/ckcc_issue50_input/KE125.tar
+LM040,https://s3-us-west-2.amazonaws.com/cgl-driver-projects-encrypted/ckcc-stanford/ckcc_issue50_input/LM040.tar
+MM301,https://s3-us-west-2.amazonaws.com/cgl-driver-projects-encrypted/ckcc-stanford/ckcc_issue50_input/MM301.tar
+MN341,https://s3-us-west-2.amazonaws.com/cgl-driver-projects-encrypted/ckcc-stanford/ckcc_issue50_input/MN341.tar
+MO391,https://s3-us-west-2.amazonaws.com/cgl-driver-projects-encrypted/ckcc-stanford/ckcc_issue50_input/MO391.tar
+NG130,https://s3-us-west-2.amazonaws.com/cgl-driver-projects-encrypted/ckcc-stanford/ckcc_issue50_input/NG130.tar
