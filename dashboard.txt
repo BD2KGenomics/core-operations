@@ -104,3 +104,8 @@ Date	Batch	Status
 
 20160629 CKCC/all.rnaseq.bam.redo.20160629.50.input.txt	Entered
 20160630 CKCC/all.rnaseq.bam.redo.20160629.50.input.txt	Started
+20160701 CKCC/all.rnaseq.bam.redo.20160629.50.input.txt	55 of 74 finished
+20160705 CKCC/all.rnaseq.bam.redo.20160629.50.input.txt	Corrected input, restarted
+20160706 CKCC/all.rnaseq.bam.redo.20160629.50.input.txt	68 of 74 finished, corrected input, restarted
+20160707 CKCC/all.rnaseq.bam.redo.20160629.50.input.txt	Completed
+
