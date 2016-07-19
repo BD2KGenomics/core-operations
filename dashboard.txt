@@ -119,3 +119,4 @@ Date	Batch	Status
 20160718 WCDT/medbook_UCSF_RNA-seq.20160714.53.input.txt	Started
 20160719 WCDT/medbook_UCSF_RNA-seq.20160714.53.input.txt	Completed
 
+20160719 CKCC/stanford-rnaseq-20160719.68.input.txt Entered
