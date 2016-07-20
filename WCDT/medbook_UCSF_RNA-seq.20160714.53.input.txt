@@ -1,6 +1,6 @@
-DTB-102-Progression
-DTB-137-Progression
-DTB-176-Progression
-DTB-181-Baseline
-DTB-194-Baseline
-DTB-194-Progression
+DTB-102-Progression,https://s3-us-west-2.amazonaws.com/cgl-inbox-su2c-ucsf-rnaseq/DTB-102-Progression.tar
+DTB-137-Progression,https://s3-us-west-2.amazonaws.com/cgl-inbox-su2c-ucsf-rnaseq/DTB-137-Progression.tar
+DTB-176-Progression,https://s3-us-west-2.amazonaws.com/cgl-inbox-su2c-ucsf-rnaseq/DTB-176-Progression.tar
+DTB-181-Baseline,https://s3-us-west-2.amazonaws.com/cgl-inbox-su2c-ucsf-rnaseq/DTB-181-Baseline.tar
+DTB-194-Baseline,https://s3-us-west-2.amazonaws.com/cgl-inbox-su2c-ucsf-rnaseq/DTB-194-Baseline.tar
+DTB-194-Progression,https://s3-us-west-2.amazonaws.com/cgl-inbox-su2c-ucsf-rnaseq/DTB-194-Progression.tar
