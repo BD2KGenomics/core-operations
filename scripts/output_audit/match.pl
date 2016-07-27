@@ -20,7 +20,7 @@ foreach my $key (keys %{$d2}) {
   }
 }
 
-foreach my $key (keys %{$d}) {
+foreach my $key (keys %{$d2}) {
   if (defined $d->{$key}) { print "$key\t".join("\t", @{$d->{$key}})."\n"; }
   else { print "$key\tMISSING\n"; }
 }
