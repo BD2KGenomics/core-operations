@@ -122,5 +122,4 @@ Date	Batch	Status
 
 20160719 CKCC/stanford-rnaseq-20160719.68.input.txt Entered
 
-20160829 CKCC/stanford-rnaseq-20160829 Input entered
-
+20160829 CKCC/stanford-rnaseq-20160829.73.txt	Entered 
