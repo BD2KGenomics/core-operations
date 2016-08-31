@@ -125,4 +125,7 @@ Date	Batch	Status
 20160829 CKCC/stanford-rnaseq-20160829.73.txt	Entered 
 
 20160830 CKCC/ckcc-SRA-rnaseq-20160830.75.txt Entered
+20160831 CKCC/ckcc-SRA-rnaseq-20160830.75 Issues with files submitted. Closed
+
+20160831 CKCC/Datasets-rnaseq-batch77.input.txt Entered
 
