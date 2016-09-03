@@ -1,0 +1,5 @@
+fq	paired	R10_496-6	s3://cgl-driver-projects-encrypted/ckcc-stanford/ckcc_issue73_input/r10_496-6_R1.fastq.gz,s3://cgl-driver-projects-encrypted/ckcc-stanford/ckcc_issue73_input/r10_496-6_R2.fastq.gz
+fq	paired	R11_298-9	s3://cgl-driver-projects-encrypted/ckcc-stanford/ckcc_issue73_input/r11_298-9_R1.fastq.gz,s3://cgl-driver-projects-encrypted/ckcc-stanford/ckcc_issue73_input/r11_298-9_R2.fastq.gz
+fq	paired	R12_456-3	s3://cgl-driver-projects-encrypted/ckcc-stanford/ckcc_issue73_input/r12_456-3_R1.fastq.gz,s3://cgl-driver-projects-encrypted/ckcc-stanford/ckcc_issue73_input/r12_456-3_R2.fastq.gz
+fq	paired	R1_436-14	s3://cgl-driver-projects-encrypted/ckcc-stanford/ckcc_issue73_input/r1_436-14_R1.fastq.gz,s3://cgl-driver-projects-encrypted/ckcc-stanford/ckcc_issue73_input/r1_436-14_R2.fastq.gz
+fq	paired	R2_499-5	s3://cgl-driver-projects-encrypted/ckcc-stanford/ckcc_issue73_input/r2_499-5_R1.fastq.gz,s3://cgl-driver-projects-encrypted/ckcc-stanford/ckcc_issue73_input/r2_499-5_R2.fastq.gz
