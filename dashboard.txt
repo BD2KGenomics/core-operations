@@ -127,6 +127,8 @@ Date	Batch	Status
 20160901 CKCC/stanford-rnaseq-20160829.73.input.txt	Restarted (hardware issue)
 20160902 CKCC/stanford-rnaseq-20160829.73.input.txt	7 of 12 finished, remaining 5 have fastq naming issues
 20160902 CKCC/stanford-rnaseq-20160902.73.input.txt	Corrected inputs (note new filename)
+20160906 CKCC/stanford-rnaseq-20160902.73.input.txt	Restarted
+20160907 CKCC/stanford-rnaseq-20160902.73.input.txt	Completed
 
 20160830 CKCC/ckcc-SRA-rnaseq-20160830.75.txt Entered
 20160831 CKCC/ckcc-SRA-rnaseq-20160830.75 Issues with files submitted. Closed
