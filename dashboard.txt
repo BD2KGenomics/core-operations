@@ -137,5 +137,17 @@ Date	Batch	Status
 20160831 CKCC/ckcc-SRA-rnaseq-20160830.75 Issues with files submitted. Closed
 
 20160831 CKCC/Datasets-rnaseq-batch77.input.txt Entered
-
+20160906 CKCC/Datasets-rnaseq-batch77.input.txt Data received. Started.
+20160907 CKCC/Datasets-rnaseq-batch77.input.txt 4 of 35 inputs finished, the rest failed without info
+20160908 CKCC/Datasets-rnaseq-batch77.input.txt Single sample tested on docker container, works
+20160912 CKCC/Datasets-rnaseq-batch77.input.txt Restarted run, toil errors
+20160914 CKCC/Datasets-rnaseq-batch77.input.txt	Several restarts resulted in 30 of 31 files
+20160916 CKCC/Datasets-rnaseq-batch77.input.txt	Finished run
+ 
 20160903 WCDT/medbook_UCSF_WXS.20160903.79.input.txt	Created placeholder input file
+20160908 WCDT/medbook_UCSF_WXS.20160903.79.input.txt	Received data; asked submitter for more info
+20160918 WCDT/medbook_UCSF_WXS.20160903.79.input.txt	Received info
+20160919 WCDT/medbook_UCSF_WXS.20160903.79.input.txt	Started run
+20160920 WCDT/medbook_UCSF_WXS.20160903.79.input.txt	Completed
+
+

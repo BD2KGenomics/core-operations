@@ -1,1 +1,2 @@
-
+MR42DvsV16D	medbook-ftp.sdsc.edu:/data/ftp/kinca/kinca/exome_bams/MR42D_exomeseq.bam	medbook-ftp.sdsc.edu:/data/ftp/kinca/kinca/exome_bams/V16D_exomeseq.bam 
+MR49FvsV16D	medbook-ftp.sdsc.edu:/data/ftp/kinca/kinca/exome_bams/MR49F_exomeseq.bam	medbook-ftp.sdsc.edu:/data/ftp/kinca/kinca/exome_bams/V16D_exomeseq.bam 
