@@ -114,6 +114,9 @@ Date	Batch	Status
 20160707 CKCC/stanford-rnaseq-20160706.51.input.txt	Completed
 
 20160718 WCDT/medbook_UCSF_WXS.20160707.52.input.txt	Entered
+20160719 WCDT/medbook_UCSF_WXS.20160707.52.input.txt	Found truncated files
+20160721 WCDT/medbook_UCSF_WXS.20160707.52.input.txt	Restarted run with remaining files	
+20160721 WCDT/medbook_UCSF_WXS.20160707.52.input.txt	Finished run
 
 20160714 WCDT/medbook_UCSF_RNA-seq.20160714.53.input.txt	Entered
 20160718 WCDT/medbook_UCSF_RNA-seq.20160714.53.input.txt	Started
