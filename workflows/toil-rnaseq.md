@@ -6,7 +6,7 @@ For details on the workflow itself, see [the manual](https://github.com/BD2KGeno
 
 ## Inputs
 
-The workflow needs two input files: a `config` and a `manifest`. The standard config for a production run can be found [here](mustfillin).
+The workflow needs two input files: a `config` and a `manifest`. The standard config for a production run can be found [here](https://github.com/BD2KGenomics/core-operations/blob/master/workflows/toil-rnaseq.config).
 
 The only change that _must_ be made in the `config` file is the s3 output location (see NAMING CONVENTIONS below).
 The `manifest` file lists inputs and must be created for each run and stored in this github repository.
