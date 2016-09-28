@@ -2,9 +2,8 @@
 
 This is a description of how to run the rnaseq-cgl toil workflow v2.0.10 on a Toil cluster with Toil v3.3.3 on AWS.
 
-For details on the workflow itself, see [the manual](https://github.com/BD2KGenomics/cgl-docker-lib/tree/master/rnaseq-cgl-pipeline)
+For details on the workflow itself, see [the manual](https://github.com/BD2KGenomics/toil-rnaseq)
 
-FIXME: This is a link to the dockerized pipeline. Intended?
 
 ## Inputs
 
@@ -37,8 +36,6 @@ fq     single  <SAMPLE ID>     s3://cgl-driver-projects-encrypted/<GROUP>/<SAMPL
 ## Getting input data from requester
 
 The requester will typically upload their tarred files to one of our `s3 inbox` locations, using a new key that they then share with us.
-
-FIXME: Example bucket name would be helpful here
 
 We move these files to one of our cgl-driver-projects-encrypted locations and re-encrypt them using `s3am`.
 In the example below, the inbox is `cgl-inbox-su2c-ucsf-rnaseq` and the final input location is under `ucsf-pnoc`:
@@ -92,8 +89,6 @@ s3://cgl-driver-projects/ucsf-pnoc/ucsf_issue53_output
 ```
 *Note that you must create this output directory before the run, and list it in the config file.*
 
-FIXME: You do? Even on S3?
-
 ## Setting up CGCloud
 
 CGCloud is needed to set up a cluster on the Amazon cloud with Toil and other necessities installed
@@ -141,7 +136,7 @@ ssh-add ~/.ssh/id_rsa
 
 This lets you interact with the cluster without having to type a password.
 
-FIXME: This is specific to `screen` and must be run inside the screen session, correct? And this is a screen session on the launch box, not the leader, correct? If so, those things should be mentioned here.
+FIXME: Figure out why this is necessary (I don't run screen sessions on the launch box)
 
 ## Creating a cluster
 
