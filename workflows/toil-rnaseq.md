@@ -133,10 +133,7 @@ kill $(ps -ef | grep agent | awk  '{print $2}')
 eval "$(ssh-agent )"
 ssh-add ~/.ssh/id_rsa
 ```
-
-This lets you interact with the cluster without having to type a password.
-
-FIXME: Figure out why this is necessary (I don't run screen sessions on the launch box)
+Otherwise I get `Private key file is encrypted` errors from the cgcloud commands listed below
 
 ## Creating a cluster
 
@@ -211,7 +208,7 @@ cgcloud terminate-cluster toil
 Unfortunately the current log is not set up to be very clear about what went wrong. For instance, `WARNING` and `ERROR` messages give the job ID but not the sample ID. Usually jobs in a batch fail for similar reasons, such as unpaired reads in the fastq files. This is why it's useful to let a run finish completely and check for missing outputs. If there are any, check the log for clues. At this point you might have to ask the developers for help.
 
 If there are any reasons for a restart or troubles with the samples (read the log for details), put this in the ticket. That way you keep the requester and the production core updated on your progress.
-## FINISHING UP
+## Finishing up
 
 Attach the following files to the GitHub ticket
 - piplist
