@@ -28,8 +28,10 @@ to gain full understanding on how to use CGCloud.
 ## 2) Launch a cluster
 
 Launch the leader instance first, and grow the cluster by adding workers after
-starting the pipeline. The directory passed to `--share` should contain the
-master key if encryption is being used:
+starting the pipeline. 
+
+The directory passed to the `--share` option—`keydir` in this example—should
+contain the master key if encryption is being used:
 
 ```
 cgcloud create-cluster --leader-instance-type m3.medium \
@@ -38,8 +40,6 @@ cgcloud create-cluster --leader-instance-type m3.medium \
                        --cluster-name example \
                        toil
 ```
-
-TODO: Document `keydir`
 
 ## 3) Install and configure the pipeline
 
@@ -90,9 +90,7 @@ What do the above options mean:
 
 - `--batchSystem=mesos` and `--mesosMaster=mesos-master:5050` configures the Mesos batchsystem that must be used on clusters in EC2. 
 
-- The `--sseKey` option enables encryption of intermediate files in the AWS job store and configures the secret key to use for encryption. This is needed if the samples are access controlled (for patient privacy).
-
-TODO: Is the same key used for s3am? How does that work?
+- The `--sseKey` option 1) enables encryption of intermediate files in Toil's job store and 2) configures the secret key to encrypt those files with. This is needed if the samples are access controlled for patient privacy. The key specified here is also used to 3) decrypt inputs to the pipeline and encrypt its outputs. For this to work, the inputs must have been uploaded with s3am's `--sse-key-is-master`.
 
 - The final positional argument (`aws:us-west-2:jvivian-example-run-1`) specifies the job store location. On EC2, you almost always want to use `aws:` followed by the region your cluster is in. If you don't, the workflow is going to be slow and additional data transfer charges will be incurred. The part after that (`jvivian-example-run-1`) is a matter of choice, but be sure to prefix it with your name so we can track which job store belongs to which user. 
 
