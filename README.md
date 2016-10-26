@@ -1,3 +1,7 @@
+# Standard operating procedures
+
+See [SOPs](SOPs).
+
 # Genomics core record-keeping
 
 ### Scope
