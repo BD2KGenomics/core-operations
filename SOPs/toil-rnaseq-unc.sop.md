@@ -45,6 +45,9 @@ git clone https://github.com/BD2KGenomics/toil-scripts -b releases/2.0.x
 #edit the launch script to make sure paths and options are setup correctly
 #especially the location of the config file and the S3 output directory
 vim /home/mesosbox/toil-scripts/src/toil_scripts/rnaseq_unc/launch_unc_mesos.sh
+  #for example
+  'aws:us-west-2:unc-run-1 \' -> 'aws:us-west-2:example-unc-run-1 \'
+  '--s3_dir cgl-driver-projects/test/ \' -> '--s3_dir cgl-driver-projects-encrypted/wcdt/issue1111/output/ \'
 #cd to the scripts directory
 cd /home/mesosbox/toil-scripts/src/toil_scripts/rnaseq_unc
 #set the script as executable
