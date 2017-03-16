@@ -1,3 +1,9 @@
+# DEPRECATED
+
+We are now using a much more automated process for analyzing data in the Computational Genomics Platform.
+
+This repo is currently only used for issues used to track data processing problems.
+
 # Standard operating procedures
 
 See [SOPs](SOPs).
